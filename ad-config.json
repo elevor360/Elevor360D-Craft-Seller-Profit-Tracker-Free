@@ -1,0 +1,6 @@
+{
+  "feedUrl": "advertising/adverts.json",
+  "appId": "craft-seller-profit-tracker-free",
+  "group": "business",
+  "refreshMinutes": 30
+}
